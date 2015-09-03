@@ -1,0 +1,54 @@
+.html3page{
+	max-width: 960px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto
+
+}
+
+
+
+
+.navbar{
+	background-color: blue;
+	width:90%;
+	vertical-align: top;
+	border: 2px solid black;
+	border-radius: 5px;
+	position: relative;
+	text-align: center;
+}
+
+.navbar li{
+display: inline-block;
+padding: 1px 4px;
+text-align: center;
+}
+
+
+.navbar a{
+
+	text-decoration: none;
+	color: white;
+	padding:50px;
+	font-family: fantasy;
+	font-size: 18px
+
+}
+
+.paragraphs{
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.bigpic img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 25px;
+
+}
+
+.fourpics {
+	text-align: center;
+}
